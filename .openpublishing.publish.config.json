@@ -4,9 +4,9 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "wyftest",
-      "build_source_folder": "wyftest",
-      "build_output_subfolder": "wyftest",
+      "docset_name": "testwyf",
+      "build_source_folder": "testwyf",
+      "build_output_subfolder": "testwyf",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
@@ -20,12 +20,5 @@
   "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
-  "dependent_repositories": [
-    {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
-      "branch_mapping": {}
-    }
-  ]
+  "dependent_repositories": []
 }
