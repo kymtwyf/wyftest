@@ -4,9 +4,9 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "docs1",
-      "build_source_folder": "docs11",
-      "build_output_subfolder": "docs11",
+      "docset_name": "基本魂牵梦萦",
+      "build_source_folder": "基本魂牵梦萦",
+      "build_output_subfolder": "基本魂牵梦萦",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
